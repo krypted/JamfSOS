@@ -5,7 +5,7 @@ This app sends GPS coordinates (e.g. "-41.9902,34.00029475" into an extension at
 
 This app is meant to be a proof of concept and not put into production. When opened it will display a simple map view.
 
-![alt text](https://github.com/krypted/JamfGPS/blob/master/JamfGPSScreen.png)
+![alt text](https://github.com/krypted/JamfGPS/blob/master/JamfGPSScreen.png| width=100)
 
 The view controller sends core location data to the Jamf Pro UAPI or to be more specific sends MKCoordinateSpan(latitudeDelta: 0.01, longitudeDelta: 0.01).
 
