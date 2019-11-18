@@ -1,9 +1,7 @@
 # JamfSOS
-Proof of Concept App That Sends GPS Coordinates To A Jamf Extension Attribute Called "gps"
+This app sends GPS coordinates (e.g. "-41.9902,34.00029475" into an extension attribute called gps. This app is meant to be a proof of concept and not put into production.
 
-This app sends GPS coordinates (e.g. "-41.9902,34.00029475" into an extension attribute called gps. 
-
-This app is meant to be a proof of concept and not put into production. When opened it will display a simple map view.
+When opened JamfSOS will display a simple map view.
 
 ![alt text](https://github.com/krypted/JamfGPS/blob/master/JamfGPSScreen.png)
 
