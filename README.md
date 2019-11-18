@@ -1,4 +1,4 @@
-# JamfGPS
+# JamfSOS
 Proof of Concept App That Sends GPS Coordinates To A Jamf Extension Attribute Called "gps"
 
 This app sends GPS coordinates (e.g. "-41.9902,34.00029475" into an extension attribute called gps. 
